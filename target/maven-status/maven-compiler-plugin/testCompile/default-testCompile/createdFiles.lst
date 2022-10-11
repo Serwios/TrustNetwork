@@ -1,0 +1,5 @@
+com\geekglassess\trustnetwork\mappers\PersonDtoMapperTest.class
+com\geekglassess\trustnetwork\controllers\PathControllerTest.class
+com\geekglassess\trustnetwork\StartStopTest.class
+com\geekglassess\trustnetwork\controllers\MessageControllerTest.class
+com\geekglassess\trustnetwork\controllers\PersonControllerTest.class
