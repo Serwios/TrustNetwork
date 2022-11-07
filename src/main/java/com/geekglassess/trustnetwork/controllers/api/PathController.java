@@ -19,4 +19,5 @@ public class PathController {
     public Map<String, Object> getPathToTarget(@RequestBody MessageDto messageDto) {
         return pathService.findPathFromSenderToTarget(messageDto);
     }
+
 }
